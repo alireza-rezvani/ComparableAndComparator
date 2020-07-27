@@ -5,7 +5,7 @@ class Car implements Comparable<Car>{
     private String color;
     private int model;
 
-    public Car(String title, String color, int model) {
+    public Car(String title, String color, int model) { 
         this.title = title;
         this.color = color;
         this.model = model;
